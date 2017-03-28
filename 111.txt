@@ -1,0 +1,11 @@
+退出 http://blog.sina.com.cn/s/blog_7d7a29c30102w4t6.html
+
+https://git.duapp.com/appidyv7zd9ggad
+cd appidyv7zd9ggad
+git status
+git commit 01.php -m "add your comments here"
+
+删除raindow文件夹及其下所有的文件
+git rm raindow -r -f
+
+
